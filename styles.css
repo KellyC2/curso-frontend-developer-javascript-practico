@@ -160,14 +160,16 @@
 
 aside {
   background: var(--white);
-  width: 360px;
-  padding: 0 24px;
+  width: 360px;  
   box-sizing: border-box;
   position: absolute;
   right: 0;
 }
 
 /* ShoppingCart */
+#shoppingCartContainer{
+  padding: 0 24px;
+}
 .title-container {
   display: flex;
 }
